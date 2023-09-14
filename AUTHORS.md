@@ -5,10 +5,10 @@ Tucson, AZ
 
 FOSS instructors:
 
-Michele Cosi: Science Analyst for CyVerse with a background in genetics and genomics of rice.
-Jeff Gillan: Data Scientist for CyVerse with relative research in the field of GIS/remote sensing.
-Tyson Swetnam: Co-PI of CyVerse and Director of Open Science, Institute for Computation and Data-enabled Insight (ICDI) at the University of Arizona
-Tina Lee: Head of User Engagement at CyVerse.
+- Michele Cosi: Science Analyst for CyVerse with a background in genetics and genomics of rice.
+- Jeff Gillan: Data Scientist for CyVerse with relative research in the field of GIS/remote sensing.
+- Tyson Swetnam: Co-PI of CyVerse and Director of Open Science, Institute for Computation and Data-enabled Insight (ICDI) at the University of Arizona
+- Tina Lee: Head of User Engagement at CyVerse.
 
 
 The dplPy team:
