@@ -1,4 +1,4 @@
-**Lishu He**
+- Lishu He
 - Graduate student, Dept. of Physiology, University of Arizona
 - Tucson, AZ
 
