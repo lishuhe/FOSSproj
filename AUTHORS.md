@@ -1,6 +1,6 @@
-Lishu He
-/Graduate student, Dept. of Physiology, University of Arizona
-/Tucson, AZ
+**Lishu He**
+- Graduate student, Dept. of Physiology, University of Arizona
+- Tucson, AZ
 
 
 FOSS instructors:
