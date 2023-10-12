@@ -43,8 +43,8 @@ theme:
     primary: teal
     accent: blue grey
   icon:
-    logo: material/cogs
-  favicon: material/cogs
+    logo: :fontawesome-solid-seedling:
+  favicon: :fontawesome-solid-apple-whole:
 
 # Page tree
 nav:
