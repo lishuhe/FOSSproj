@@ -40,8 +40,8 @@ theme:
   # Palette and theme (uses personalized colours)
   language: en
   palette:
-    primary: custom
-    accent: custom
+    primary: teal
+    accent: blue grey
   icon:
     logo: material/cogs
   favicon: material/cogs
