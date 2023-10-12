@@ -4,8 +4,8 @@ site_author: lishu
 site_url: https://<lishuhe.github.io>/
 
 # Repository
-repo_name: foss-reference-hub
-repo_url: https://github.com/lishuhe/foss-reference-hub.git
+repo_name: FOSSproj
+repo_url: https://github.com/lishuhe/FOSSproj.git
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024 lishuhe'
