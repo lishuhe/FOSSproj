@@ -43,8 +43,8 @@ theme:
     primary: teal
     accent: blue grey
   icon:
-    logo: :fontawesome-solid-seedling:
-  favicon: :fontawesome-solid-seedling:
+    logo: fontawesome/solid-seedling
+  favicon: fontawesome/solid-seedling
 
 # Page tree
 nav:
