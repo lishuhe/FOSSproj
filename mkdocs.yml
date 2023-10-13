@@ -44,7 +44,7 @@ theme:
     accent: blue grey
   icon:
     logo: :fontawesome-solid-seedling:
-  favicon: :fontawesome-solid-apple-whole:
+  favicon: :fontawesome-solid-seedling:
 
 # Page tree
 nav:
